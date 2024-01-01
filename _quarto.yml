@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "scharlerLab"
+  navbar:
+    background: primary
+    search: true
+    left:
+      - text: "Home"
+        file: index.qmd
+    right:
+      - href: http://scholar.google.co.uk/citations?user=EKvYLisAAAAJ&hl=en
+        text: Google Scholar
+      - href: https://www.researchgate.net/profile/Ursula_Scharler
+        text: Researchgate
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "Main Menu"
+        contents:
+          - index.qmd
+          #- about.qmd
+          - postdocs.qmd
+      - section: "External links"
+        contents:
+          - href: http://scholar.google.co.uk/citations?user=EKvYLisAAAAJ&hl=en
+            text: Google Scholar
+          - href: https://www.researchgate.net/profile/Ursula_Scharler
+            text: Researchgate
+      - section: "BlogPosts"
+        contents: posts
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

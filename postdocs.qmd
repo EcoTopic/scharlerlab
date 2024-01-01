@@ -1,0 +1,105 @@
+---
+  title: "Postgraduate students and post-docs"
+---
+
+We currently work on projects related to:
+
+-   ecosystem modelling and metrics
+
+-   ecological network analysis
+
+-   resilience and biodiversity in ecosystems
+
+-   biodiversity-ecosystem function
+
+-   estuarine and nearshore marine systems
+
+-   socio-economic networks
+
+If you are interested in any of the above topics, contact us. Please note this is not equivalent to a bursary offer.
+
+## Current Lab members:
+
+|                          |                                                                                                                                                                               |
+|--------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ![](images/Tino.png)     | Dr Tinotenda Mangadze. Post-doctoral Fellow. Estuarine responses to global change scenarios.                                                                                  |
+| ![](images/Hanlie1.png)  | Dr Hanlie Malherbe. Post-doctoral Fellow. Land-use change impacts on estuaries.                                                                                               |
+| ![](images/canyon4.png)  | Abigail Rohde. MSc candidate. Modelling of the ecological role of submarine canyon heads off the east coast of South Africa. Supervisor: U. Scharler                          |
+| ![](images/sharks1.png)  | Shanice Ramanooj. MSc candidate. Spatial ecology of sharks around submarine canyons on the east coast of South Africa. Supervisor: M. Dicken (KZN Sharks Board), U. Scharler. |
+| ![](images/Gemma.png)    | Gemma Gerber. PhD candidate. Global change in estuaries investigated through ecosystem models. Supervisor: U. Scharler.                                                       |
+| ![](images/Karabo3.png)  | Karabo Thema. MSc candidate. Spatial differences in ecosystem function, a modelling study. Supervisor: U. Scharler.                                                           |
+| ![](images/Fifi4.png)    | Dikarabo Rafedile (aka Fifi). MSc candidate. Resilience of mesozooplankton communitites in estuaries. Supervisor: U. Scharler, H. Jerling (UniZulu).                          |
+| ![](images/Andile2.png)  | Andile Nkosi. MSc candidate. Resilience of benthic communitites in estuaries. Supervisor: U. Scharler, F. MacKay (ORI).                                                       |
+| ![](images/Ben.png)      | Ben Brooker. PhD candidate. System limits in estuaries. Supervisor: U. Scharler.                                                                                              |
+| ![](images/Fru.png)      | Fru A Nche-Fambo. PhD candidate. Microplankton dynamics in relation to freshwater input and pollution. Supervisor: U. Scharler.                                               |
+| ![](images/Thembeka.png) | Thembeka Radebe. MSc candidate. Variability of estuarine macrozoobenthos communities. Supervisor: U. Scharler.                                                                |
+| ![](images/Dane.png)     | Dane Garvie. MSc candidate. The role of zooplankton in the Mlalazi estuarine ecosystem. Supervisor(s): Dr. U. Scharler, Dr. H. Jerling (University of Zululand).              |
+| ![](images/Kajal.png)    | Kajal Lechman. MSc. Research Assistant.                                                                                                                                       |
+
+## Past postgraduate students/post-docs:
+
+Morgana Tagliarolo. Post-doc. Assessing spatial and temporal variability of carbon fluxes using a network analysis approach. U. Scharler.
+
+Katrin Tirok. Post-doc. Modelling of plankton dynamics in St. Lucia. U. Scharler, D. Stretch.
+
+Morag Ayers. Post-doc. Robustness of networks and ecosystems. U. Scharler.
+
+## PhD
+
+Kendyl le Roux. PhD. Energy flows in coastal marine ecosystems. Supervisors: U. Scharler, D. Glassom
+
+Reinhardt Scholtz. PhD. Geostatistical Analysis of Integrated Ecosystem Monitoring Data. Supervisors: G Kiker (University of Florida), U. Scharler, H. Mwambi (UKZN).
+
+Kelly Ortega-Cisneros. PhD. Estuarine ecosystem function. Supervisors: U. Scharler, A. Whitfield (SAIAB).
+
+Ntuthuko Masikane. PhD. Development of a sediment toxicity test with an endemic amphipod. Supervisors: B. Newman (CSIR), U. Scharler.
+
+Robynne Chrystal. PhD. Hydrodynamics and network analysis of St. Lucia. Supervisors: D. Stretch, U. Scharler.
+
+Morag Ayers. PhD. Ecosystem modelling of the Natal Bight. Supervisor: U. Scharler.
+
+## MSc
+
+Amy Shurety. MSc. Resilience in ecosystems. Supervisor: U. Scharler
+
+Kajal Lechman. MSc. the role of zooplankton in the Mdloti estuarine ecosystem. Supervisor(s): Dr. U. Scharler, Dr. H. Jerling (University of Zululand).
+
+Madonna Vezi. MSc. Phosphorus distribution in estuarine food webs. Supervisor: U. Scharler.
+
+Fru A Nche-Fambo. MSc. Microplankton dynamics in St. Lucia. Supervisors: U. Scharler, K. Tirok.
+
+Travis Kunnen. MSc. Bacteria biomass and productivity in the Natal Bight. Supervisors: D. Muir, U. Scharler.
+
+Elisa Inguane-Vicente. MSc. Aquaculture in the South west Indian Ocean region. Supervisors: U. Scharler, J. Sara.
+
+Vuyiswa Radebe. MSc. Coastal Dune activities. Supervisors: U. Scharler, J. Harris (EKZN Wildlife).
+
+## BSc (Honours)
+
+Natalie dos Santos. Bsc(Honours). Nest temperatures and predicted sex ratios of South African loggerhead turtles (*Caretta caretta*). Supervisors: U. Scharler, R Nel (NMU).
+
+Nomfundo Hlambisa. Bsc (Honours). Environmental variability impacts on abundance of dominant estuarine zooplankton at uMlalazi Estuary, KwaZulu-Natal. Supervisor: U. Scharler
+
+Melissa Ewels. BSc (Honours). Influence of the Thukela River on the Thukela Bank. Supervisor: U. Scharler
+
+Abigail Rohde. BSc (Honours). Meiofauna communities in the Mlalazi estuary. Supervisor: U Scharler.
+
+Khutso Ramalepe. BSc (Honours). Microplankton community structure in the Mdloti estuary. Supervisor: U. Scharler
+
+Senine Naidoo. BSc (Honours). Biomass and productivity pyramids of food webs. Supervisor: U. Scharler
+
+Corrine Joseph.BSc (Honours). Catches of target and bycatch species in the Zinkwazi and Blythedale bather protection nets of the KwaZulu-Natal Sharks Board from 1978 - 2014. Supervisors: U. Scharler, M. Dicken (KZN Sharks Board).
+
+Kajal Lechman. BSc (Honours). Modelling the impact of changes in riverflow of the Thukela on the Thukela Bank ecosystem. Supervisors: U. Scharler.
+
+Dane CD Garvie. BSc (Honours). Variability and stability of estuarine zooplankton. Supervisors: U. Scharler, H. Jerling (University of Zululand).
+
+Divesh Sookdeo. BSc (Honours). Resuspension of plankton in Lake St. Lucia. Supervisors: U. Scharler, Dr. K. Tirok.
+
+Snethemba Kunene. BSc (Honours). Plankton biomass distribution in estuaries. Supervisor: U. Scharler.
+
+Ropa Moyo. BSc (Honours). Microplankton abundance and biomass in the Natal Bight. Supervisor: U. Scharler.
+
+Kendyl le Roux. BSc (Honours). Macrobenthos community distribution in Mhlanga. Supervisors: F. MacKay (Oceanographic Research Institute), U. Scharler.
+
+Keren Worlock. BSc (Honours). Macrobenthos biomass distribution in Mhlanga. Supervisors: U. Scharler, F. MacKay (Oceanographic Research Institute).
