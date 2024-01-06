@@ -1,0 +1,16 @@
+---
+title: "Latest Publications"
+date: "01/12/2023"
+---
+
+Check out our latest **PUBLICATIONS**:
+
+UM Scharler, SR Borrett. 2021. Network construction, evaluation and documentation: A guideline. Environmental Modelling & Software 140, 105020. <https://doi.org/10.1016/j.envsoft.2021.105020>
+
+Philip J Landrigan, John J Stegeman, Lora E Fleming, Denis Allemand, Donald M Anderson, Lorraine C Backer, Françoise Brucker-Davis, Nicolas Chevalier, Lilian Corra, Dorota Czerucka, Marie-Yasmine Dechraoui Bottein, Barbara Demeneix, Michael Depledge, Dimitri D Deheyn, Charles J Dorman, Patrick Fénichel, Samantha Fisher, Françoise Gaill, François Galgani, William H Gaze, Laura Giuliano, Philippe Grandjean, Mark E Hahn, Amro Hamdoun, Philipp Hess, Bret Judson, Amalia Laborde, Jacqueline McGlade, Jenna Mu, Adetoun Mustapha, Maria Neira, Rachel T Noble, Maria Luiza Pedrotti, Christopher Reddy, Joacim Rocklöv, Ursula M Scharler, Hariharan Shanmugam, Gabriella Taghian, Jeroen AJM Van De Water, Luigi Vezzulli, Pál Weihe, Ariana Zeka, Hervé Raps, Patrick Rampal. 2020. Human health and ocean pollution. Annals of global health, 86(1): 1-30. . [doi: 10.5334/aogh.2831](https://dx.doi.org/10.5334%2Faogh.2831)
+
+Also check associated [BlueClimate Initiative.](https://www.tetiaroasociety.org/blue-climate-initiative)
+
+Brooker B and UM Scharler. 2020. The importance of climatic variability and human influence in driving aspects of temporarily open/closed estuaries. [Ecohydrology](https://doi.org/10.1002/eco.2205), e2205.
+
+Scharler UM, Lechman K, Radebe T and HL Jerling. 2020. Effects of prolonged mouth closure in a temporarily open/closed estuary: a summary of the response of invertebrate communities in the uMdloti, South Africa. [African Journal of Aquatic Sciences Special Issue](https://doi.org/10.2989/16085914.2019.1689911): perspectives on protecting African estuarine ecosystems in the Anthropocene. 45: 1-2, 121-130.

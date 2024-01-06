@@ -1,0 +1,16 @@
+---
+title: "Photos"
+date: "01/12/2023"
+---
+
+## Some photos from the lab/ fieldtrips/ conferences
+
+![](images/SLS_ResearchDay_Students.jpg){fig-alt="SLS_ResearchDay"}
+
+![](images/MdlotiEmpty.JPG.jpeg){fig-alt="MdlotiEmpty"}
+
+![](images/PaddlesSmall.jpeg){fig-alt="PaddlesSmall"}
+
+![](images/IntheLab2.jpg){fig-alt="IntheLab2"}
+
+![](images/Sylt_ENA_workshop.jpg){fig-alt="Sylt_ENA_workshop"}

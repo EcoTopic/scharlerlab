@@ -1,0 +1,9 @@
+---
+title: "Network Construction - FlowCar"
+date: "01/12/2023"
+---
+
+**Check out our latest R package on CRAN.**
+[FlowCAr](https://cran.r-project.org/src/contrib/Archive/FlowCAr/): Flow Network Construction and Analysis
+
+Creates a list of possible networks solved using 'LIM' (Linear Inverse Modelling), assesses their plausibility with respect to input data, and restructures this list to read into the R package 'enaR' for network analysis. 

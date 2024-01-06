@@ -1,0 +1,9 @@
+---
+title: "Global change in estuaries"
+date: "01/12/2023"
+---
+
+
+We recently received funding through the ESSRP programme of the DST/NRF to work on GLOBAL CHANGE in estuaries, specifically on:  [A Framework to Assess Global Change in Estuaries: Past, Present and Future](https://www.nrf.ac.za/gcr/programmes/ESSRP.pdf). 
+
+Our aims are to investigate physical and chemical forcings on the estuarine ecosystem under various global change scenarios. Using network analysis and systems dynamic modelling, we investigate biodiversity-ecosytem function, modelling in low-density data environments, and systems responses to climate and anthropogenic forcing. This is a collaboration between the University of KwaZulu-Natal (UKZN), University of Zululand (UniZulu), Oceanographic Research Institute (ORI), and the Consortium for Scientific and Industrial Research (CSIR Durban, Stellenbosch).

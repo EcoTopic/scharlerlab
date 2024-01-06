@@ -1,6 +1,6 @@
 ---
 title: "Postgrad NEWS"
-date: "01/12/2023"
+date: "1/1/2024"
 ---
 
 **Gemma Gerber, Tinotenda Mangadze** and **Ben Brooker** presented at the joint ECSA 58 and EMECS 13 on network science and estuarine ecology in September.
